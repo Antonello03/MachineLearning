@@ -1,4 +1,3 @@
 1) Add noiser
 3) add SHAP (SHapley Additive exPlanations) could provide deeper insights.
-4) explain overfitting
 5) use a virtual environment
